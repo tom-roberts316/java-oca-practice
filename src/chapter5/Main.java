@@ -1,4 +1,4 @@
-package practice;
+package chapter5;
 
 public class Main {
 	
